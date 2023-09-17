@@ -1,0 +1,1 @@
+![lab1_result](img.png)
